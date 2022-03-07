@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb://JJJoestar:madeinheaven@jjjoestar-shard-00-00.vi96x.mongodb.net:27017,jjjoestar-shard-00-01.vi96x.mongodb.net:27017,jjjoestar-shard-00-02.vi96x.mongodb.net:27017/JJJoestar?ssl=true&replicaSet=atlas-alu3ws-shard-0&authSource=admin&retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
+}
